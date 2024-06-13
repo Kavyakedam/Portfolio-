@@ -5,7 +5,7 @@ this project includes some of the contents like below:
 -styles.css
 -script.js
 
-some of the features like:
+some of the features included like:
 -contact information
 -skills
 -education
